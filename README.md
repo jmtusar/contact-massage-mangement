@@ -3,5 +3,5 @@ Applications for Contact management and Messaging.
 
 
 # Release note:
-  The application is not been released yet...
+  The application is not been released yet...\n
 Have a cup of coffee and wait...
